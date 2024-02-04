@@ -67,7 +67,7 @@ button {
     flex-grow: 1;
     margin-right: 332px;
     justify-content: space-between;
-    padding: 24px 0;
+    padding: 24px 0px;
 }
 
 .header-logo {
