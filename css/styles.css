@@ -339,7 +339,7 @@ color: #2E2F42;
 }
 
 .portfolio-picture {
-    padding-bottom: 32px;
+    /* padding-bottom: 32px; */
 }
 
 .port-name-text {
@@ -363,7 +363,7 @@ color: #2E2F42;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        padding-bottom: 32px;
+        /* padding-bottom: 32px; */
 }
 
 /*===============*/
