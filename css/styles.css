@@ -90,6 +90,7 @@ button {
 .header-menu-list {
     display: flex;
     gap: 40px;
+    padding: 24px 0px;
 }
 
 .header-menu-link {
