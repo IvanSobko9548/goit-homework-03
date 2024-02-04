@@ -111,13 +111,12 @@ button {
 
 .header-address {
     font-style: normal;
+    padding: 24px 0px;
 }
 
 .header-address-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0px;
-
 }
 
 .header-address-item {
