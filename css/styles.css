@@ -53,6 +53,7 @@ button {
 
 .header {
     border-bottom: 1px solid #e7e9fc;
+    padding: 24px 0px;
 }
 
 .header-container {
@@ -67,7 +68,6 @@ button {
     flex-grow: 1;
     margin-right: 332px;
     justify-content: space-between;
-    padding: 24px 0px;
 }
 
 .header-logo {
