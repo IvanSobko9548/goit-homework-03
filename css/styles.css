@@ -115,6 +115,7 @@ button {
 }
 
 .header-address-item {
+    padding: 24px 0px;
 }
 
 .header-address-link {
@@ -124,7 +125,6 @@ button {
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        padding: 24px 0px;
 }
 
 .header-address-link:hover {
