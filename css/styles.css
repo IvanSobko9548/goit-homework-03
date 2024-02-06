@@ -63,7 +63,7 @@ button {
 }
 
 .header-navigation {
-    display: block;
+    display: flex;
     align-items: center;
     flex-grow: 1;
 }
@@ -95,6 +95,7 @@ button {
         line-height: 1.50;
         letter-spacing: 0.02em;
         padding: 24px 0px;
+        display: block;
 }
 
 .header-menu-link:hover {
