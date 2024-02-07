@@ -247,7 +247,6 @@ padding: 188px 0px;
 .team-list {
     display: flex;
     gap: 24px;
-    padding-bottom: 120px;
 }
 
 .team-item {
@@ -317,7 +316,6 @@ color: #2E2F42;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    padding-bottom: 120px;
     
 
 }
